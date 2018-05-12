@@ -1,0 +1,37 @@
+_repo: Zwei-offene-Briefe-an-Dr.-J.-Spaeth-Professor-der-Geburtshilfe-an-der-k.-k.-Josefs-Akademie-i__40261
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40261-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Semmelweis, Ignác Fülöp
+    aliases:
+    - Semmelweis, Ignac Fulop
+    - Semmelweis, Ignaz
+    - Semmelweis, Ignatz Philipp
+    birthdate: 1818
+    deathdate: 1865
+    gutenberg_agent_id: '40512'
+    url: http://www.gutenberg.org/2009/agents/40512
+    wikipedia:
+    - http://de.wikipedia.org/wiki/Ignaz_Semmelweis
+    - http://en.wikipedia.org/wiki/Ignaz_Semmelweis
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2012-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40261'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Puerperal septicemia'
+- !lcsh 'Antiseptics in obstetrics'
+- !lcc 'RG'
+title: Zwei offene Briefe an Dr. J. Spaeth, Professor der Geburtshilfe an der k. k.
+  Josefs-Akademie in Wien, und an Hofrath Dr. F. W. Scanzoni, Professor der Geburtshilfe
+  zu Würzburg
+url: http://www.gutenberg.org/ebooks/40261
