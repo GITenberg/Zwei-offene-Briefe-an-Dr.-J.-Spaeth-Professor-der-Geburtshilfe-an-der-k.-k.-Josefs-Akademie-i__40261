@@ -18,6 +18,8 @@ creator:
     - http://de.wikipedia.org/wiki/Ignaz_Semmelweis
     - http://en.wikipedia.org/wiki/Ignaz_Semmelweis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40261#Zwei-offene-Briefe-an-Dr.-J.-Spaeth-Professor-der-Geburtshilfe-an-der-k.-k.-Josefs-Akademie-i_
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2012-07-16'
 gutenberg_type: Text
